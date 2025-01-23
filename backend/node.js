@@ -27,7 +27,7 @@ const addTask=(task)=>{
     
 
 }
-// how to  grab th ethings 
+// how to  grab the things 
 const command=process.argv[2]
 const argument=process.argv[3]
 
