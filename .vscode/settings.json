@@ -9,5 +9,6 @@
         "**/*.sass",
         "**/*.ts"
     ],
-    "liveServer.settings.useLocalIp": true
+    "liveServer.settings.useLocalIp": true,
+    "C_Cpp.errorSquiggles": "enabled"
 }
